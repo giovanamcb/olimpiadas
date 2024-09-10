@@ -31,4 +31,4 @@ Para rodar a aplicação localmente, siga estes passos simples:
    deploy: https://olimpiadas-three-phi.vercel.app/
 
  #  Contato
-Desenvolvido com ❤️ por Giovana Borges durante a Imersão Dev da Alura + Google Gemini. Se você tiver qualquer dúvida ou sugestão, pode me encontrar no LinkedIn: https://www.linkedin.com/in/giovana-borges-628b6a214/ ou me enviar um e-mail para giovanaborges450@outlool.com
+Desenvolvido com ❤️ por Giovana Borges durante a Imersão Dev da Alura + Google Gemini. Se você tiver qualquer dúvida ou sugestão, pode me encontrar no LinkedIn: https://www.linkedin.com/in/giovana-borges-628b6a214/ ou me enviar um e-mail para giovanaborges450@outlook.com
